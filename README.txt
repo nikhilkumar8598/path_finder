@@ -1,4 +1,5 @@
-This is path finding algorithm for multiple destinations for a fruit plucking line following robot. 
+This is path finding algorithm for multiple destinations.This was used for a fruit plucking 
+line following robot. 
 
 Note: Here we are assumimg that the trees bearing fruit are not placed exactly on the node. 
 Instead, they are placed in the square gap enclosed by four nodes very close to one of the 
